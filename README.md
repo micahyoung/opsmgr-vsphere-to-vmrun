@@ -1,0 +1,1 @@
+# Convert a Pivotal Operations Manager OVA from the vsphere-cpi to the vmrun-cpi
